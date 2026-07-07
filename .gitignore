@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+
+# fotos de teste e relatórios gerados (dados pessoais)
+*.jpeg
+*.jpg
+*.png
+*.webp
+relatorio*.json
